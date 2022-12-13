@@ -5,9 +5,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
     }
 
-
-    }
-
     public static void sortArray(int[] array) {
         int temp = 0;
         for (int i = 0; i < array.length; i++) {
